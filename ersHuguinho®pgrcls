@@ -1,0 +1,69 @@
+[33mcommit 22139545045ace1938fd5cd45c9901b613fd28b4[m[33m ([m[1;36mHEAD[m[33m)[m
+Author: hugo <hugo32918@gmail.com>
+Date:   Sat Sep 30 23:21:28 2023 -0300
+
+    Revert "criando arquivo"
+    
+    This reverts commit cc0a80cd64a62c811179cb786c61590746946126.
+
+ git | 1 [31m-[m
+ 1 file changed, 1 deletion(-)
+
+[33mcommit cc0a80cd64a62c811179cb786c61590746946126[m[33m ([m[1;32mmaster[m[33m)[m
+Author: hugo <hugo32918@gmail.com>
+Date:   Sat Sep 30 22:08:07 2023 -0300
+
+    criando arquivo
+
+ git | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+
+[33mcommit 03ac6dd12afc7ad89b317b50c284d4ee95bc174d[m
+Author: hugo <hugo32918@gmail.com>
+Date:   Sat Sep 30 19:39:55 2023 -0300
+
+    inclussão de changelog.md
+
+ changelog.md | 9 [32m+++++++++[m
+ 1 file changed, 9 insertions(+)
+
+[33mcommit 2e41f7a0974cb68efaa031ca28b21fc365214b14[m
+Author: hugo <hugo32918@gmail.com>
+Date:   Sat Sep 30 19:22:01 2023 -0300
+
+    foi alterado o tudo bem
+
+ kkk.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit 0829d44e6847b37ac56240886222f67b8128a563[m
+Author: hugo <hugo32918@gmail.com>
+Date:   Sat Sep 30 19:19:14 2023 -0300
+
+    foi alterado o ola
+
+ kkk.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit 999840917dab2a8bf902bc9cda2cf1e7201d96f9[m
+Author: hugo <hugo32918@gmail.com>
+Date:   Sat Sep 30 18:51:35 2023 -0300
+
+    incluindo novos arquivos
+    
+    incluindo arquivo no cmmit
+
+ kkk.txt  | 1 [32m+[m
+ zack.txt | 1 [32m+[m
+ 2 files changed, 2 insertions(+)
+
+[33mcommit 45069d4700f4681f2cd8553aea66474e77dace8a[m
+Author: hugo <hugo32918@gmail.com>
+Date:   Sat Sep 30 18:39:32 2023 -0300
+
+    iniciando um diretorrio git commit
+    
+    alterndo oi
+
+ lei.txt | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
